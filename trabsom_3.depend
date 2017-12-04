@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483753787 source:c:\users\mateus\documents\programas\trabsom_3\main.cpp
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+
